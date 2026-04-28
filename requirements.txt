@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+asyncpg
+textual
+python-dotenv
+pydantic-settings
+httpx
+websockets

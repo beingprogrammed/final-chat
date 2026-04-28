@@ -1,0 +1,62 @@
+__pycache__/
+.env
+.venv
+venv/
+*.pyc
+
+
+# =========================
+# Python cache files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environment
+# =========================
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Environment variables (VERY IMPORTANT)
+# =========================
+.env
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Database files (SQLite)
+# =========================
+*.sqlite3
+*.db
+
+# =========================
+# IDE / Editor settings
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Python testing/cache
+# =========================
+.pytest_cache/
+.mypy_cache/
+
+# =========================
+# Distribution/build files
+# =========================
+build/
+dist/
+*.egg-info/
