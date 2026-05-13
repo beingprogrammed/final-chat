@@ -60,3 +60,6 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+# Documentation
+report.md
